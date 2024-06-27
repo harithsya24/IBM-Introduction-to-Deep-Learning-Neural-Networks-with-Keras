@@ -21,7 +21,7 @@ To run these models, ensure you have Python installed along with the following l
 - Pandas
 - Matplotlib (for visualization, if applicable)
 
-You can install these dependencies using pip:
+You can install these dependencies using pip
 
 
 ## Running the Models
@@ -42,7 +42,5 @@ Results from each model configuration are stored within the respective scripts o
 
 - **Educational Resources:** Portions of this project are inspired by the teachings and exercises from the [insert course name or platform] offered by IBM.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
